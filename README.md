@@ -16,10 +16,10 @@ This project is a face recognition-based attendance system that uses OpenCV and 
  ![App Screenshot]( https://github.com/Henvitha26/face_recognisation_attendence_management_system_real_time_project_-/blob/main/Screenshot%202024-11-28%20163648.png)
 
 ### after this we can see faces in one folder
-
+ ![App Screenshot](https://github.com/Henvitha26/face_recognisation_attendence_management_system_real_time_project_-/blob/main/Screenshot%202024-11-28%20163548.png)
 
 ### now we can take attendence by clicking attendence_taker.py file
-
+ ![App Screenshot]()
 
 ### web application interface
 
