@@ -22,7 +22,7 @@ This project is a face recognition-based attendance system that uses OpenCV and 
  ![App Screenshot](https://github.com/Henvitha26/face_recognisation_attendence_management_system_real_time_project_-/blob/main/Screenshot%202024-11-28%20163756.png)
 
 ### web application interface
- ![App Screenshot]()
+ ![App Screenshot](https://github.com/Henvitha26/face_recognisation_attendence_management_system_real_time_project_-/blob/main/Screenshot%202024-11-28%20164513.png)
 
 
 
